@@ -1,0 +1,4 @@
+- The app is now available in Brazilian Portuguese.
+- You may need to restart your app or PC to complete the update. If that happens, you'll see a message in Settings.
+- We'll notify you if a file transfer was not received or only some of the files were downloaded.
+- We've added links to how-to articles in Meshnet so you can get timely answers to your questions.
