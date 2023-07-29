@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 02 15:01:48 CEST 2023
+spring-boot-starter-webflux-2.5.0.jar>central=
+spring-boot-starter-webflux-2.5.0.pom>central=
+spring-boot-starter-webflux-2.5.0-sources.jar>central=

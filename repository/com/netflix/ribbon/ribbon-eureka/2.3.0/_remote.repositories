@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 16 22:04:03 CEST 2023
+ribbon-eureka-2.3.0.jar>central=
+ribbon-eureka-2.3.0-sources.jar>central=
+ribbon-eureka-2.3.0.pom>central=

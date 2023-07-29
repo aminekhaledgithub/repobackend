@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 23 18:28:10 CEST 2023
+smallrye-common-expression-1.6.0-sources.jar>central=
+smallrye-common-expression-1.6.0.jar>central=
+smallrye-common-expression-1.6.0.pom>central=

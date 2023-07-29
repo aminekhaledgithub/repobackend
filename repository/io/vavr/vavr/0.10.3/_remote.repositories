@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 17 21:10:45 CEST 2023
+vavr-0.10.3.jar>central=
+vavr-0.10.3.pom>central=
+vavr-0.10.3-sources.jar>central=

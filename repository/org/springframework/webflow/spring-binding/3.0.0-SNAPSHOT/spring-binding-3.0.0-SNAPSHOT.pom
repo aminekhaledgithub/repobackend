@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.springframework.webflow</groupId>
+  <artifactId>spring-binding</artifactId>
+  <version>3.0.0-SNAPSHOT</version>
+  <name>Spring Binding</name>
+  <description>Spring Binding</description>
+  <url>https://github.com/spring-projects/spring-webflow</url>
+  <organization>
+    <name>Spring IO</name>
+    <url>https://spring.io/projects/spring-webflow</url>
+  </organization>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>rstoyanchev</id>
+      <name>Rossen Stoyanchev</name>
+      <email>rstoyanchev@vmware.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/spring-projects/spring-webflow</connection>
+    <developerConnection>scm:git:git://github.com/spring-projects/spring-webflow</developerConnection>
+    <url>https://github.com/spring-projects/spring-webflow</url>
+  </scm>
+  <issueManagement>
+    <system>Jira</system>
+    <url>https://jira.spring.io/browse/SWF</url>
+  </issueManagement>
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>6.0.7</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>

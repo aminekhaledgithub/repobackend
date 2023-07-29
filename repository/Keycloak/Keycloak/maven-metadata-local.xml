@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>Keycloak</groupId>
+  <artifactId>Keycloak</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230618172455</lastUpdated>
+  </versioning>
+</metadata>

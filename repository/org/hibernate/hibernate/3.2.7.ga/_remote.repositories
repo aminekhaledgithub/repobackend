@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 06 14:18:32 CEST 2023
+hibernate-3.2.7.ga-sources.jar>central=
+hibernate-3.2.7.ga.pom>central=
+hibernate-3.2.7.ga.jar>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 17 21:11:29 CEST 2023
+reactor-core-3.4.11.jar>central=
+reactor-core-3.4.11-sources.jar>central=
+reactor-core-3.4.11.pom>central=

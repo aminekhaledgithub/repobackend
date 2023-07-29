@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 23 18:51:18 CEST 2023
+weld-servlet-shaded-5.0.0.Final.jar>central=
+weld-servlet-shaded-5.0.0.Final-sources.jar>central=
+weld-servlet-shaded-5.0.0.Final.pom>central=

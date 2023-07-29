@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 17 19:13:26 CEST 2023
+oauth2-oidc-sdk-9.43.2.jar>central=
+oauth2-oidc-sdk-9.43.2.pom>central=
+oauth2-oidc-sdk-9.43.2-sources.jar>central=

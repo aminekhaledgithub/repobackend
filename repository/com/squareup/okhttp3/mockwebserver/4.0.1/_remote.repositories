@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 28 20:51:37 CEST 2023
+mockwebserver-4.0.1.jar>central=
+mockwebserver-4.0.1.pom>central=
+mockwebserver-4.0.1-sources.jar>central=

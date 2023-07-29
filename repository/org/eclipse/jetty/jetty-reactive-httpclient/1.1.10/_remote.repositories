@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 23 18:28:22 CEST 2023
+jetty-reactive-httpclient-1.1.10.jar>central=
+jetty-reactive-httpclient-1.1.10.pom>central=
+jetty-reactive-httpclient-1.1.10-sources.jar>central=

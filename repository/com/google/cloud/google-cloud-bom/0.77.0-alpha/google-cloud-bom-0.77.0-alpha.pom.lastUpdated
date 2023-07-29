@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 09 19:46:12 CEST 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1686332772698
+https\://repo.spring.io/libs-milestone-local/.error=
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1686332770402
+@default-spring-releases-https\://repo.spring.io/release/.lastUpdated=1686332772359
+https\://repo.spring.io/release/.error=Could not transfer artifact com.google.cloud\:google-cloud-bom\:pom\:0.77.0-alpha from/to spring-releases (https\://repo.spring.io/release)\: Access denied to https\://repo.spring.io/release/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom. Error code 401, 
